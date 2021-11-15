@@ -7,7 +7,7 @@ Benefit from [bibmanager](https://bibmanager.readthedocs.io/en/latest/) and [alf
 ## Installation
 
 1. Download the latest release from the release page:
-[here](https://github.com/AaronDavidSchneider/alfred-bibmanager/releases/download/latest/alfred-bibmanager-workflow.alfredworkflow)
+[here](https://github.com/AaronDavidSchneider/alfred-bibmanager/releases/latest/download/alfred-bibmanager-workflow.alfredworkflow)
 2. Find the path of your python installation*
 3. Set PYTHON_ENV to the path of the installation
 
